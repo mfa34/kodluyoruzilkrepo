@@ -1,2 +1,3 @@
 # kodluyoruzilkrepo
-Egitim icin actigim ilk repo
+
+Egitim icin actigim ilk repolardan birisi
