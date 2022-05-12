@@ -27,3 +27,4 @@ Herhangi bir degisiklik yapmadan once konu aciniz . Tesekkurler .
 ## License
 
 [MIT](https://github.com/mfa34/kodluyoruzilkrepo/blob/main/LICENSE)
+[PATIKA.DEV](https://app.patika.dev/mhmtfthaydin)
