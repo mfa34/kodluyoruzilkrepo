@@ -1,0 +1,61 @@
+body {
+  background-color: #e0c9a9;
+}
+#Heading-1 {
+  color: #51262c;
+}
+.info-1 {
+  font-weight: bold;
+  font-style: italic;
+}
+.Tarif-1 {
+  font-weight: bold;
+}
+#article-2 {
+  text-align: center;
+}
+#article-2 > ul > li {
+  list-style: none;
+  display: inline-block;
+  padding-left: 2rem;
+  text-decoration: underline;
+}
+.person {
+  color: red;
+}
+.time {
+  color: red;
+}
+.timend {
+  color: red;
+}
+#article-3 {
+  padding-left: 480px;
+}
+.Heading-2 {
+  display: inline-block;
+  color: white;
+  background-color: #922700;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+}
+#article-4 {
+  padding-left: 480px;
+}
+.Heading-3 {
+  display: inline-block;
+  color: white;
+  background-color: #922700;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.end {
+  padding-left: 1180px;
+  font-family: monospace;
+  font-size: 25px;
+  color: #402c17;
+}
