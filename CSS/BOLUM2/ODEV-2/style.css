@@ -1,0 +1,89 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.list-1 > ul > li {
+  margin: 2px;
+}
+img {
+  margin: 20px 786.5px;
+}
+
+.container {
+  width: 1691px;
+  margin-left: 114.5px;
+}
+.section-1 {
+  width: 1698.3px;
+  height: 83px;
+  background-color: blue;
+  margin-bottom: 5px;
+}
+.section-2 {
+  width: 1698.3px;
+  height: 80px;
+  background-color: brown;
+  position: relative;
+}
+.td-1 {
+  width: 300px;
+  height: 83px;
+  margin-left: 695.5px;
+  text-align: center;
+}
+#searchbar {
+  width: 269px;
+  height: 22px;
+}
+#btn-1,
+#btn-2 {
+  padding: 3px;
+}
+.td-2,
+.td-3.td-4 {
+}
+.td-2 {
+  width: 623.4px;
+  height: 76px;
+  background-color: black;
+  position: absolute;
+  padding: 1px;
+}
+.td-3 {
+  width: 367.867px;
+  height: 76px;
+  position: absolute;
+  background-color: azure;
+  margin-left: 627.5px;
+  padding: 1px;
+}
+.td-4 {
+  width: 693.033px;
+  height: 76px;
+  position: absolute;
+  padding: 1px;
+  margin-left: 999.867px;
+  background-color: burlywood;
+  text-align: center;
+}
+.list-1 {
+  text-align: center;
+  list-style-type: none;
+}
+.list-2 > ul > li {
+  list-style-type: none;
+  text-align: center;
+}
+.info-3 {
+  width: 141px;
+  height: 16px;
+  padding: 2px;
+  border: 2px;
+}
+.btn-3 {
+  height: 16px;
+  width: 70px;
+  padding: 1px 4px 1px 4px;
+  border: 2px;
+  border-radius: 4px;
+}
