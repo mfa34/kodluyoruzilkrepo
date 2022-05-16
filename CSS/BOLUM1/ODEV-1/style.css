@@ -41,7 +41,10 @@ img {
   height: auto;
 }
 .main {
-  text-align: left;
+  text-align: justify;
+}
+.main-1 {
+  text-align: center;
 }
 #Heading3-3 {
   text-align: left;
