@@ -6,12 +6,12 @@
   margin: 2px;
 }
 img {
-  margin: 20px 786.5px;
+  margin: 20px 896.5px;
 }
 
 .container {
   width: 1691px;
-  margin-left: 114.5px;
+  margin-left: 222.85px;
 }
 .section-1 {
   width: 1698.3px;
@@ -38,9 +38,6 @@ img {
 #btn-1,
 #btn-2 {
   padding: 3px;
-}
-.td-2,
-.td-3.td-4 {
 }
 .td-2 {
   width: 623.4px;
