@@ -2,8 +2,15 @@
   padding: 0;
   margin: 0;
 }
+body {
+  background-color: #ffffff;
+}
 .list-1 > ul > li {
   margin: 2px;
+  list-style-type: none;
+}
+.list-1 > ul > li:first-child {
+  text-decoration: none;
 }
 img {
   margin: 20px 896.5px;
@@ -16,13 +23,13 @@ img {
 .section-1 {
   width: 1698.3px;
   height: 83px;
-  background-color: blue;
+  background-color: #eeeeee;
   margin-bottom: 5px;
 }
 .section-2 {
   width: 1698.3px;
   height: 80px;
-  background-color: brown;
+  background-color: #ffffff;
   position: relative;
 }
 .td-1 {
@@ -42,7 +49,7 @@ img {
 .td-2 {
   width: 623.4px;
   height: 76px;
-  background-color: black;
+  background-color: #7ee5da;
   position: absolute;
   padding: 1px;
 }
@@ -50,7 +57,7 @@ img {
   width: 367.867px;
   height: 76px;
   position: absolute;
-  background-color: azure;
+  background-color: #70ccc2;
   margin-left: 627.5px;
   padding: 1px;
 }
@@ -60,7 +67,7 @@ img {
   position: absolute;
   padding: 1px;
   margin-left: 999.867px;
-  background-color: burlywood;
+  background-color: #62b3aa;
   text-align: center;
 }
 .list-1 {
@@ -83,4 +90,9 @@ img {
   padding: 1px 4px 1px 4px;
   border: 2px;
   border-radius: 4px;
+}
+.copy {
+  display: inline-block;
+  margin-left: 975.75px;
+  margin-top: 20px;
 }
